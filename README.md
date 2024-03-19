@@ -1,2 +1,2 @@
 # Добро пожаловать в ProstoSoftWare!
-GitHub Respository
+Это небольшая компания, которая делает игры Bird War, Strike Wave, Protect и другие
